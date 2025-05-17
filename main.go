@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 )
-
+ddddd
 func main() {
 	cmd := os.Args[1]
 	a, _ := strconv.Atoi(os.Args[2])
